@@ -1,6 +1,6 @@
 # RFAA Control Software
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![img](https://github.com/akrsnr/RFAA-Software/blob/master/gui.png?raw=true)
 
 RFAA Control Software was written by me in Java (Swing) at my internship.
 It can,
